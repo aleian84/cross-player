@@ -1,0 +1,3 @@
+var keycodes = new function() {
+	
+}
