@@ -1,0 +1,43 @@
+{
+	"sony" : [
+		{
+			"url":"http://media.w3.org/2010/05/sintel/trailer.mp4",
+			"type":"",
+			"encrypted":"N",
+			"customData":"",
+			"licenserUrl":"",
+			"label":"Sintel (MP4)",
+			"img":"images/1.jpg"
+		},
+		{
+			"url":"http://playready.directtaps.net/smoothstreaming/TTLSS720VC1/To_The_Limit_720.ism/Manifest",
+			"type":"application/vnd.ms-playready.initiator+xml",
+			"encrypted":"N",
+			"customData":"",
+			"licenserUrl":"",
+			"label":"Playready",
+			"img":"images/1.jpg"
+		}
+	],
+	"samsungOrsay" : [
+		{
+			"url":"http://media.w3.org/2010/05/sintel/trailer.mp4",
+			"type":"",
+			"encrypted":"N",
+			"customData":"",
+			"licenserUrl":"",
+			"label":"Sintel (MP4)",
+			"img":"images/1.jpg"
+		},
+		{
+			"url":"http://playready.directtaps.net/smoothstreaming/TTLSS720VC1/To_The_Limit_720.ism/Manifest",
+			"type":"application/vnd.ms-playready.initiator+xml",
+			"encrypted":"N",
+			"customData":"",
+			"licenserUrl":"",
+			"label":"Playready",
+			"img":"images/1.jpg"
+		}
+	] 
+
+}
