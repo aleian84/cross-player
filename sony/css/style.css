@@ -106,9 +106,11 @@ video {
     font-size: 26px;
     text-shadow: 2px 2px #000000;
     vertical-align: -webkit-baseline-middle;
-    border: 3px solid transparent;
+    border: 3px solid black;
+    border-color: black;
 }
 
 .focus {
     border: 3px solid #09afc2;
+    border-color: #09afc2;
 }
