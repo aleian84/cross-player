@@ -11,3 +11,12 @@ To build the project for the correct device you have to :
  3) In the folder build, will be created a folder with the name of the device and in it there will be all the files of the project (example build/sony)
  4) Put the folder created (example sony) in the htdocs of an apache server and call from the browser of your PC the url (example for   sony): http://yourip/sony/index.html
  5) Test the build on the real device
+ 6) To test your own content (Playready+customData) put it in the file content.json present in the folder common/json/. For example for sony : 
+ 
+   "url":"yourUrl",
+			"type":"application/vnd.ms-playready.initiator+xml",
+			"encrypted":"Y",
+			"customData":"yourCustomData",
+			"licenserUrl":"",
+			"label":"Playready",
+			"img":"images/2.jpg"
