@@ -1,0 +1,52 @@
+{
+	"sony" : [
+		{
+			"url":"http://media.w3.org/2010/05/sintel/trailer.mp4",
+			"type":"",
+			"encrypted":"N",
+			"customData":"",
+			"licenserUrl":"",
+			"label":"Sintel (MP4)",
+			"img":"images/1.jpg"
+		},
+		{
+			"url":"http://vod03-infinitytv-it.akamaized.net/farmunica/2017/01/17351_159b5fd5e50a2f/smooth/hd_inf.ism/manifest",
+			"type":"application/vnd.ms-playready.initiator+xml",
+			"encrypted":"Y",
+			"customData":"<Auth><cookie>3985f57e5f8a336997ed5a28093dc8302358db2a90079eab18f2ed9652f3e6ef14a3a3336de7f294dcc62dabdac3a331a582c1be15ef8ca011c80091e75657a8f45bd0e443f141faa3f3d7eb95f4a9ee</cookie><contentId>276471</contentId><type>VOD</type><channel>PCTV</channel><licenseType>streaming</licenseType></Auth>",
+			"licenserUrl":"",
+			"label":"Playready",
+			"img":"images/2.jpg"
+		},
+		{
+			"url":"http://vod03-infinitytv-it.akamaized.net/farmunica/2016/11/14156_158a24073747d2/smooth/hd.ism/manifest",
+			"type":"application/vnd.ms-playready.initiator+xml",
+			"encrypted":"N",
+			"customData":"",
+			"licenserUrl":"",
+			"label":"Ex-machina (SS Clear)",
+			"img":"images/3.jpg"
+		}
+	],
+	"samsungOrsay" : [
+		{
+			"url":"http://media.w3.org/2010/05/sintel/trailer.mp4",
+			"type":"",
+			"encrypted":"N",
+			"customData":"",
+			"licenserUrl":"",
+			"label":"Sintel (MP4)",
+			"img":"images/1.jpg"
+		},
+		{
+			"url":"http://playready.directtaps.net/smoothstreaming/TTLSS720VC1/To_The_Limit_720.ism/Manifest",
+			"type":"application/vnd.ms-playready.initiator+xml",
+			"encrypted":"N",
+			"customData":"",
+			"licenserUrl":"",
+			"label":"Playready",
+			"img":"images/1.jpg"
+		}
+	] 
+
+}

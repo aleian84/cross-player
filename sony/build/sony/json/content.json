@@ -1,0 +1,52 @@
+{
+	"sony" : [
+		{
+			"url":"http://media.w3.org/2010/05/sintel/trailer.mp4",
+			"type":"",
+			"encrypted":"N",
+			"customData":"",
+			"licenserUrl":"",
+			"label":"Sintel (MP4)",
+			"img":"images/1.jpg"
+		},
+		{
+			"url":"http://playready.directtaps.net/smoothstreaming/TTLSS720VC1PR/To_The_Limit_720.ism/Manifest",
+			"type":"application/vnd.ms-playready.initiator+xml",
+			"encrypted":"Y",
+			"customData":"customData",
+			"licenserUrl":"",
+			"label":"To The Limit (with encryption)",
+			"img":"images/2.jpg"
+		},
+		{
+			"url":"http://playready.directtaps.net/smoothstreaming/SSWSS720H264/SuperSpeedway_720.ism/Manifest",
+			"type":"application/vnd.ms-playready.initiator+xml",
+			"encrypted":"N",
+			"customData":"",
+			"licenserUrl":"",
+			"label":"SuperSpeedWay (SS Clear)",
+			"img":"images/3.jpg"
+		}
+	],
+	"samsungOrsay" : [
+		{
+			"url":"http://media.w3.org/2010/05/sintel/trailer.mp4",
+			"type":"",
+			"encrypted":"N",
+			"customData":"",
+			"licenserUrl":"",
+			"label":"Sintel (MP4)",
+			"img":"images/1.jpg"
+		},
+		{
+			"url":"http://playready.directtaps.net/smoothstreaming/TTLSS720VC1/To_The_Limit_720.ism/Manifest",
+			"type":"application/vnd.ms-playready.initiator+xml",
+			"encrypted":"N",
+			"customData":"",
+			"licenserUrl":"",
+			"label":"Playready",
+			"img":"images/1.jpg"
+		}
+	] 
+
+}
