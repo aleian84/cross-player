@@ -10,13 +10,22 @@
 			"img":"images/1.jpg"
 		},
 		{
-			"url":"http://playready.directtaps.net/smoothstreaming/TTLSS720VC1/To_The_Limit_720.ism/Manifest",
+			"url":"http://playready.directtaps.net/smoothstreaming/SSWSS720H264/SuperSpeedway_720.ism/Manifest",
 			"type":"application/vnd.ms-playready.initiator+xml",
 			"encrypted":"N",
 			"customData":"",
 			"licenserUrl":"",
+			"label":"SuperSpeedWay (SS Clear)",
+			"img":"images/3.jpg"
+		},
+		{
+			"url":"",
+			"type":"application/vnd.ms-playready.initiator+xml",
+			"encrypted":"Y",
+			"customData":"",
+			"licenserUrl":"",
 			"label":"Playready",
-			"img":"images/1.jpg"
+			"img":"images/2.jpg"
 		}
 	],
 	"samsungOrsay" : [
